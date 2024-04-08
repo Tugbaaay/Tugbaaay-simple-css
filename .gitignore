@@ -42,9 +42,18 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-*.png
+
 
 # Windows shortcuts
 *.lnk
 
+### Images ###
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+*.png
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
